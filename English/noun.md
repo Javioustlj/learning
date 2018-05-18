@@ -29,3 +29,7 @@ signature: your name as you usually write it, for example at the end of a letter
 cornerstone: s stone at the corner of the base of a building, often laid in a special ceremony; the most important part of something that the rest depends on;
 hindsight: the understanding that you have a situation only after it has happened and that means you would have done things in a diffrent way
 pitfall: a danger or difficulty, especially one that is hidden or not obvious at first
+diagram: a simple drawing using lines to explain where something is, how something is works, etc
+perspective: a particular attitude towards something; a way of thinking about something
+eternity: time without end, especially life continuing without end after death
+analogy: a comparision of one thing with another thing that has similar features; a feature that is similar;

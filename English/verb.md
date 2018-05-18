@@ -17,3 +17,10 @@ designate: to say officially that somebody/something has a particular character 
 enforce: enforce something (on/against somebody/something) to make sure that people obey a particular law or rule
 obstruct: obstruct somebody/something to prevent somebody/something from doing something or making progress, especially when this is done deliberately
 render: present something;
+shrink: to become or to make something smaller in size or amount
+alter: to become different; to make somebody/something different
+merge: to combine or make two things combine to form a single thing
+toggle: to press a key or set of keys on a computer keyboard in order to turn a feature on or off, or to move from one program, etc. to another
+manipulate: to control or use something in a skilful way
+disinherit: disinherit somebody to prevent somebody, especially your son or daughter, from recieiving your money or property after your death
+

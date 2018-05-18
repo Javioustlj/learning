@@ -21,4 +21,8 @@ crucial: extremely important, because it will affect other things
 prominent: important or well known; easily seen;
 comprehensive: including all, or almost all, the items, details, facts, information, etc, that may be concerned
 rigorous: done carefully and with a lot of attention to detail; demanding that particular rules, processes, etc. are strictly followed
-
+thorough: done completely; with great attention to detail
+concurrent: concurrent (with something) existing or happening at the same time
+subtle: not very noticeable or obvious
+voluntary: done by wilingly, not because you are forced
+fatal: causing or ending in death
