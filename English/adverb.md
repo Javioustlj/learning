@@ -10,3 +10,5 @@ instantly: immdiately
 thereafter: after the time or event mentioned
 ultimately: in the end; finally
 grudgingly: in a way that is given or done unwillingly
+unrealistically: in a way that does not show or accept things as they are
+tacitly: in a way that is suggested indirectly or understood, rather than said in words

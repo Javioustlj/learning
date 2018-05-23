@@ -33,3 +33,4 @@ diagram: a simple drawing using lines to explain where something is, how somethi
 perspective: a particular attitude towards something; a way of thinking about something
 eternity: time without end, especially life continuing without end after death
 analogy: a comparision of one thing with another thing that has similar features; a feature that is similar;
+utilization: the act of using something, especially for a practical purpose
