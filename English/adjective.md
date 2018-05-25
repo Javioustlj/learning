@@ -29,3 +29,6 @@ fatal: causing or ending in death
 probabilistic: based on the idea that, as we cannot be certain about things, we can base our beliefs or actions on what is probable
 sluggish: moving, reacting or working more slowly than normal and in a way that seems lazy
 analogous: analogous (to/with something) similar in some way to another thing or situation and therefore able to be compared with it
+dedicated: workding hard at something because it is important to you
+net: final, after all the important facts have been included
+hostile: very unfriendly or aggressive and ready to argue or fight

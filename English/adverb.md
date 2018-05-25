@@ -12,3 +12,4 @@ ultimately: in the end; finally
 grudgingly: in a way that is given or done unwillingly
 unrealistically: in a way that does not show or accept things as they are
 tacitly: in a way that is suggested indirectly or understood, rather than said in words
+presumably: used to say that you think something  is probably true

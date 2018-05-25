@@ -5,7 +5,7 @@ elapse: (formal) if a period of time elapses, it passes
 shuttle: shuttle (between A and B) to travel between two places frequently
 eliminate: to remove or get rid of something/somebody
 concatenate: to link together in a series or chain 
-vanish: to disappear suddenly and/or in a way that you can not explain
+vanish: to disappear suddenly and/or in a way that you can not explain; to stop exist
 revive: [intransitive, transitive] to become, or to make somebody/something become, conscious or healthy and stong again
 dictate: [tansitive, intransitive] to control or influence how something happens
 reincarnation: the belief that after somebody's death their soul lives agin in a new body

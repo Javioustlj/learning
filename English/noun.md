@@ -34,3 +34,5 @@ perspective: a particular attitude towards something; a way of thinking about so
 eternity: time without end, especially life continuing without end after death
 analogy: a comparision of one thing with another thing that has similar features; a feature that is similar;
 utilization: the act of using something, especially for a practical purpose
+compendium: a collection of facts, drawings and photographs on a particular subject, especially in a book
+prototype: prototype(for/of something) the first design of someting from which other forms are copied or developed
