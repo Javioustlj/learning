@@ -32,3 +32,4 @@ analogous: analogous (to/with something) similar in some way to another thing or
 dedicated: workding hard at something because it is important to you
 net: final, after all the important facts have been included
 hostile: very unfriendly or aggressive and ready to argue or fight
+controversial: causing a lot of angry public discussion and disagreement
