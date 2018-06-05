@@ -23,4 +23,5 @@ merge: to combine or make two things combine to form a single thing
 toggle: to press a key or set of keys on a computer keyboard in order to turn a feature on or off, or to move from one program, etc. to another
 manipulate: to control or use something in a skilful way
 disinherit: disinherit somebody to prevent somebody, especially your son or daughter, from recieiving your money or property after your death
+mimic: mimic something (specialist or formal) to look or behave like something else
 
