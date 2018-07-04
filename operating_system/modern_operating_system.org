@@ -28,10 +28,29 @@
     #+BEGIN_SRC c
     count = write(fd, buffer, nbytes);
     #+END_SRC
-    call return any value in count /count/ other than /nbytes/? If so, why?
+    call return any value in /count/ other than /nbytes/? If so, why?
 23. A file whose file descriptor is /fd/ contains the following sequence of bytes: 3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5. The following system calls are made:
     #+BEGIN_SRC c
     Iseek(fd, 3, SEEK_SET);
     read(fd, &buffer, 4);
     #+END_SRC
     where the Iseek call makes a seek to byte 3 of the file. What does /buffer/ contains after the read has completed?
+24. Suppose that a 10-MB file is stored on the disk on the same track (track 50) in consecutive sector. The disk arm is currently situated over track number 100. How long will it take to retrieve this file from the disk? Assume that it takes about 1 ms to move the arm from one cylinder to the next and about 5 ms for the sector where the beginning of the file is stored to the rotate under the head. Also, assume that reading occurs at a rate of 200 MB/s.
+25. What is the essential difference between a block special file and a character special file?
+26. In the example given in Fig.1-17, the library procedure is called /read/ and the system call itself is called read. Is it essential that both of these have the same name? If not, which one is more important?
+27. Modern operating system decouple a process address space from the machine's physical memory. List two advantage of this design.
+28. To a programmer, a system call looks like any other call to a library procedure. Is it important that a programmer know which library procedures result in a system calls? Under what circumstances and why?
+29. Figure 1-23 shows that a number of UNIX system calls have no Win32 API equivalents. For each of the calls listed as having no Win32 equivalent, what are the consequence for a programmer of converting a UNIX program to run under Windows?
+30. A portable operating system 
+31. Explain how separation of policy and mechanism aids in building microkernel-based operating systems.
+32. Virtual machines have become very popular for a variety reasons. Nevertheless, they have some downsides. Name one.
+33. Here are some questions for practicing unit conversions:
+    - (a) How long is nanoyear in seconds?
+    - (b) Micrometers are often called microns. How long is a megamicron?
+    - (c) How many bytes are there in a 1-PB memory?
+    - (d) The mass of the earth is 6000 yottagrams. What is that in Kilograms?
+34. Write a shell that is similar to Fig.1-19 but contains enough code that it actually works so you can test it. You might also add some features such as redirection of input and output, pipes, and background jobs.
+35. If you have a personal UNIX-link system (linux, MINIX 3, FreeBSD, etc.) available that you can safely crash and reboot, write a shell script that attempts to create an unlimited number of child processes and observe what happens. Before running the experiment, type sync to the shell to flush the file system buffers to disk to avoid running the file system. You can also do the experiment safely in a virtual machine. 
+    *Note:* Do not try this on a shared system without first getting permission from the system administrator. The consequence will be instantly obvious so you are likely to be caught and sanctions may follow.
+
+36. Examine and try to interpret the contents of a UNIX-like or Windows directory with a tool like the UNIX /od/ program. (/Hint:/ How you do this will depend upon what the OS allows. One trick that may work is to create a directory on a USB stick with one operating system and then read the raw device data using a different operating system that allows such access.)
